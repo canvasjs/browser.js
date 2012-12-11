@@ -19,7 +19,6 @@ var browser = function () {
         }, 
         systemList = {},
         ieBrowserList = {},
-        browserList = {},
         engineList = {},
         i;
     // 操作系统列表
